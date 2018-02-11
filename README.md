@@ -24,4 +24,4 @@ The change in cross-track error is the Differential. This will help solve the pr
 The initial values were set to 'p' - 1, 'i' - 0, 'd' - 0. With this car started oscillating as it drove down the track. An addition of 'd' parameter smoothened the oscilations. By decreasing 'p' and increasing 'd', the car had a smooth start and smooth turning. With addition of 'i', the car started to go in rounds at the start. The value of 'i' was decreased to observe the smooth drive of car around the track.
 
 #### Video
-Click [here](https://github.com/AbhishekGurudutt/CarND-PID-Control-Project/pid_project.mov) 
+Click [here](https://github.com/AbhishekGurudutt/CarND-PID-Control-Project/blob/master/pid_project.mov) 
